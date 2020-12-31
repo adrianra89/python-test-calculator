@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "python-test-calculator",
+			"path": "python-test-calculator\\python-test-calculator"
+		}
+	],
+	"settings": {}
+}
